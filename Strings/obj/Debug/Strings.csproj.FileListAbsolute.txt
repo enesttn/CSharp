@@ -1,0 +1,8 @@
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\bin\Debug\Strings.exe.config
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\bin\Debug\Strings.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\bin\Debug\Strings.pdb
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\obj\Debug\Strings.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,8 @@
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\bin\Debug\Arrays.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\obj\Debug\Arrays.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Arrays\obj\Debug\Arrays.pdb

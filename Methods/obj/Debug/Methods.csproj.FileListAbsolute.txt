@@ -1,0 +1,8 @@
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\bin\Debug\Methods.exe.config
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\bin\Debug\Methods.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\bin\Debug\Methods.pdb
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\obj\Debug\Methods.exe
+C:\Users\Enes\Documents\TOBETO\1B\CSharp\Intro\Methods\obj\Debug\Methods.pdb
